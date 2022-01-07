@@ -1,4 +1,4 @@
-# README for Online Game: Current Design #
+# README for current design of Budgeting Blast! #
 
 * `applab/applab.js` - The applab library. Contains javascript that applab uses to run the app.
 
